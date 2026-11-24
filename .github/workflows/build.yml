@@ -58,3 +58,4 @@ jobs:
           name: Alisa-logs
           path: .buildozer/**/*.log
           if-no-files-found: ignore
+          
